@@ -1,0 +1,10 @@
+package reforcoaula02;
+
+public class Plantao {
+	String local;
+	int nTecnicos;
+	int nPacientes;
+	int nEnfermeiros;
+	int leitosDisp;
+	
+}
